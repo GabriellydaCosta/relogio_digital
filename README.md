@@ -24,16 +24,16 @@ Ele exibe a **hora atual em tempo real**, além da **data e dia da semana**, com
 
 ## ▶️ Como executar
 1. Clone o repositório <br>
-git clone https://github.com/GabriellydaCosta/relogio-digital.git <br>
-cd relogio-digital
+git clone https://github.com/GabriellydaCosta/relogio_digital.git <br>
+cd relogio_digital
 
 2. Instale as dependências necessárias: <br>
 pip install pyglet
 
-3. Certifique-se de que o arquivo da fonte digital-7.ttf está na mesma pasta do código.
+3. Certifique-se de que o arquivo da fonte digital-7.ttf está na mesma pasta do código e instale-a.
 
 4. Execute o programa: <br>
-python relogio.py
+python3 relogio.py
 
 <br/>
 
